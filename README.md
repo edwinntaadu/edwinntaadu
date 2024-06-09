@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Edwin, a frontend developer based in Berlin. I specialize in building modern, responsive websites and web applications using HTML, CSS, JavaScript, React, Next.js, and more.
+I'm Edwin, a frontend developer based in Berlin. I specialize in building modern, responsive websites and web applications using HTML, CSS, JavaScript, React, Next, and more.
 
 - 🔭 I’m currently working on backend projects using Node.js and Python with the aim to transition to a full-stack developer!
 - 🌱 I’m also learning advanced backend development techniques, including microservices and cloud computing.
